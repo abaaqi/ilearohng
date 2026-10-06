@@ -3,10 +3,10 @@
     "preview": {
       "distribution": "internal",
       "android": { "buildType": "apk" },
-      "env": { "EXPO_PUBLIC_SHOP_URL": "https://your-site.netlify.app" }
+      "env": { "EXPO_PUBLIC_SHOP_URL": "https://ilearohng.netlify.app" }
     },
     "production": {
-      "env": { "EXPO_PUBLIC_SHOP_URL": "https://your-site.netlify.app" }
+      "env": { "EXPO_PUBLIC_SHOP_URL": "https://ilearohng.netlify.app" }
     }
   }
 }
